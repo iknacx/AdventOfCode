@@ -8,8 +8,6 @@ with open(f"{dirname}/input.txt") as f:
 
 
 def findMul(idx: int) -> tuple[int, int]:
-    global enabled
-
     fst_num = []
     snd_num = []
 
