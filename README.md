@@ -3,7 +3,7 @@ This repository contains my solutions for [Advent of Code](https://adventofcode.
 
 | Year | Language | Progress |
 | ---- | -------- | -------- |
-| [2024](https://adventofcode.com/2024) | Python | 3/25 |
+| [2024](https://adventofcode.com/2024) | Python | 4/25 |
 | [2023](https://adventofcode.com/2023) | Zig | 1/25 |
 | [2022](https://adventofcode.com/2022) | Rust | 1/25 |
 
