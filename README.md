@@ -4,7 +4,7 @@ This repository contains my solutions for [Advent of Code](https://adventofcode.
 | Year | Language |
 | ---- | -------- |
 | [2024](https://adventofcode.com/2024) | Python |
-| ... | ... |
+| [2023](https://adventofcode.com/2023) | Zig |
 
 ## Coming Soon 🚀
 
